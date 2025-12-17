@@ -1,5 +1,6 @@
 streamlit
 qdrant-client
+langchain-community
 langchain-google-genai
 langchain-huggingface
 langchain-qdrant
