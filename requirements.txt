@@ -1,4 +1,5 @@
 streamlit
+langchain-community
 qdrant-client
 langchain-community
 langchain-google-genai
